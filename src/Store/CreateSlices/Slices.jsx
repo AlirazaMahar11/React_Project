@@ -1,11 +1,13 @@
 import { createSlice } from '@reduxjs/toolkit'
 
 export const counterSlice = createSlice({
-  name: 'Slice',
+  name: 'UserData',
   initialState: {
+    
   },
-//   reducers: {
-//   }
+  // reducers: {
+
+  // }
    
 })
 
